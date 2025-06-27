@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    max-width: 60px;
+}
+.icon {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.btn-icon {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.title {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
